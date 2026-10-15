@@ -25,6 +25,14 @@ When something I depend on breaks, I try to fix it upstream. Recently that has m
 hypervisor, plus fixes in [jco](https://github.com/bytecodealliance/jco),
 [russh](https://github.com/Eugeny/russh) and [nixpkgs](https://github.com/NixOS/nixpkgs).
 
+### Recent writing
+
+<!-- blog starts -->
+- [Thou shall only ping once](https://l9o.dev/posts/thou-shall-only-ping-once/) (Dec 2025)
+- [Remote Code Execution on the Siglent SDS1104X-E](https://l9o.dev/posts/remote-code-execution-on-the-siglent-sds1104x-e/) (Dec 2025)
+- [Controlling an Elegoo Mars Pro remotely](https://l9o.dev/posts/controlling-an-elegoo-mars-pro-remotely/) (Oct 2020)
+<!-- blog ends -->
+
 ### In a previous life
 
 I spent 13 years at Facebook and Instagram, slowly working my way down the stack. I started in web
