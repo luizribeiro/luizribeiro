@@ -43,7 +43,7 @@ Some past projects I'm no longer maintaining:
 
 - **[mariner](https://github.com/luizribeiro/mariner)**: a web interface for MSLA resin 3D printers based on Chitu controllers (Elegoo, Phrozen). It started as a Raspberry Pi Zero wired to my printer's serial port ([writeup](https://l9o.dev/posts/controlling-an-elegoo-mars-pro-remotely/)).
 - **[vim-cooklang](https://github.com/luizribeiro/vim-cooklang)** and **[py-cooklang](https://github.com/luizribeiro/py-cooklang)**: a vim plugin and a Python parser for [Cooklang](https://cooklang.org/), a markup language for recipes.
-- **[gython](https://github.com/luizribeiro/gython)**: part of the Gephi Scripting Plugin I built for Google Summer of Code 2011, a Jython fork with operators for manipulating graphs.
+- **[gython](https://github.com/luizribeiro/gython)**: a Jython fork with operators for manipulating graphs, built as part of the Gephi Scripting Plugin for Google Summer of Code 2011.
 - **[QMK](https://github.com/qmk/qmk_firmware)**: I added support for ps2avrGB keyboards to the keyboard firmware.
 
 ### Away from the keyboard
